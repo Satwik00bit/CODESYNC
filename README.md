@@ -32,7 +32,7 @@ This application is a real-time collaborative code editor designed for seamless 
 
 ## 💻 Start-up instructions
 
-*You can view the finished version of the site by clicking on the link:* (https://codesync.onrender.com)
+*You can view the finished version of the site by clicking on the link:* (https://codesync-grwm.onrender.com)
 
 #### If you want to run the site on your computer, follow these instructions:
 
