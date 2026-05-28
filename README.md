@@ -45,4 +45,4 @@ This application is a real-time collaborative code editor designed for seamless 
    PORT=5000
 5. Install the project's base dependencies with the npm install command.
 6. Start the application by executing the npm run build and then npm start commands.
-7. Done! Go to the following address in your browser: http://localhost:5000.
+7. Done! Go to the following address in your browser: http://localhost:5000.    
